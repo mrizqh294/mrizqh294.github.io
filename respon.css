@@ -1,0 +1,136 @@
+@media all and (max-width: 670px) {
+	header li {
+		margin: 0px 15px 0px 0px;
+		font-size: 15px;
+	}
+
+	.picture img {
+		Width: 35%;
+	}
+	.heading {
+		width: 	100%;
+		text-align: center;
+	}
+
+	.heading h3 {
+		font-size: 	28px;
+	}
+
+	.heading p {
+		font-size: 20px;
+	}
+
+	.content-about img {
+	text-align: center;
+	width: 40%; 
+	position: relative;
+	left: 30%;
+	}
+
+	.content-skill img {
+		width: 30%;
+	}
+
+	.port {
+		width: 60%;
+	}
+
+	.foot {
+		width: 100%;
+		flex-wrap: wrap;
+	}
+
+	.foot p{
+		font-size: 	10px;
+	}
+	.foot h3{
+		font-size: 15px;
+	}
+
+	.copyright {
+		font-size:10px;
+	}
+
+	.menu {
+		padding-left: 20px;
+	}
+
+	.sosmed {
+		padding-left: 30px;
+	}
+
+	input,button,textarea {
+		width: 75%;
+	}
+
+	.form .alert {
+		font-size: 10px;
+	}
+}
+
+@media all and (min-width: 700px max-width: 1000px) {
+	header li {
+		margin: 0px 15px 0px 0px;
+		font-size: 15px;
+	}
+
+	.picture img {
+		Width: 35%;
+	}
+	.heading {
+		width: 	100%;
+		text-align: center;
+	}
+
+	.heading h3 {
+		font-size: 	28px;
+	}
+
+	.heading p {
+		font-size: 20px;
+	}
+
+	.content-about img {
+	text-align: center;
+	width: 40%; 
+	position: relative;
+	left: 30%;
+	}
+
+	.content-skill img {
+		width: 30%;
+	}
+
+	.port {
+		width: 60%;
+	}
+
+	.foot {
+		width: 100%;
+		flex-wrap: wrap;
+	}
+
+	.foot p{
+		font-size: 	10px;
+	}
+	.foot h3{
+		font-size: 15px;
+	}
+
+	.copyright {
+		font-size:10px;
+	}
+
+	.menu {
+		padding-left: 20px;
+	}
+
+	input,button,textarea {
+		width: 60%;
+	}
+
+	.form .alert {
+		font-size: 10px;
+	}
+
+}
